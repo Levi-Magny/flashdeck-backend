@@ -7,7 +7,7 @@ Flashdeck is a robust backend application that provides a seamless experience fo
 ## Setup Instructions
 
 ### Prerequisites
-1. **Node.js**: Ensure that you have Node.js installed. You can download it from [nodejs.org](https://nodejs.org/).
+1. **python**: .
 2. **Database**: A database (e.g., MongoDB) must be set up and running.
 
 ### Installation Steps
@@ -18,14 +18,10 @@ Flashdeck is a robust backend application that provides a seamless experience fo
    ```
 2. **Install Dependencies**
    ```bash
-   npm install
+   pip install
    ```
 3. **Configure Environment Variables**
    Create a `.env` file in the root directory and set your environment variables.
-4. **Run the Application**
-   ```bash
-   npm start
-   ```
 
 ## Features
 - User authentication and authorization
