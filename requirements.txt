@@ -1,0 +1,12 @@
+djangorestframework
+ django-cors-headers
+ djangorestframework-simplejwt
+ pillow
+ psycopg2-binary
+ python-decouple
+ gunicorn
+ pylint
+ black
+ isort
+ mypy
+ flake8
